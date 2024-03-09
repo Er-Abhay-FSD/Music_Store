@@ -1,6 +1,6 @@
 # SQL Project: Music Store Analysis
 
-Read the full detailed article <a href="">here</a>.
+Read the full detailed article <a href="https://er-abhay-fsd.github.io/Music-store-Live/index.html#header">here</a>.
 
 ## Description
 
