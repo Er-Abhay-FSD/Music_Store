@@ -17,7 +17,8 @@ Note: If you are using PostgreSQL then restore the <a href="">backup</a> file of
 
 ## Schema Diagram
 
-![Schema Diagram](https://github.com/Er-Abhay-FSD/Music_Stores/assets/75924699/993e1d5d-0ae0-4034-9e20-202a2916c84c)
+![Schema Diagram](https://github.com/Er-Abhay-FSD/Music_Store/blob/main/MusicDatabaseSchema.png)
+
 
 <!-- ## Usage
 
